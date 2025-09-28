@@ -67,21 +67,21 @@ body {
 
 
 
-@media (max-with: 1200px) {
+@media (max-width: 1200px) {
 	.container {
 		max-width: 930px;
 	}
 
 }
 
-@media (max-with: 991px) {
+@media (max-width: 991px) {
 	.container {
 		max-width: 730px;
 	}
 
 }
 
-@media (max-with: 786px) {
+@media (max-width: 786px) {
 	.container {
 		max-width: 100%;
 	}
